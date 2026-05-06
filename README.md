@@ -30,21 +30,6 @@ Expense Tracker — это графическое приложение для о
 
 ---
 
-## Требования для запуска
-
-- Python 3.6 или выше
-- Tkinter (входит в стандартную поставку Python)
-- Дополнительных библиотек не требуется
-
----
-
-## Как запустить
-
-```bash
-git clone https://github.com/pshenichnayaarr228-lgtm/expense-tracker.git
-cd expense-tracker
-python expense_tracker.py
-
 ## Примеры использования
 
 ### Пример 1: Добавление расхода
@@ -120,3 +105,23 @@ python expense_tracker.py
 | Ввод `abc` | ❌ "Введите корректное число!" |
 | Ввод `31.12.2024` | ❌ "Неверный формат даты! Используйте ГГГГ-ММ-ДД" |
 | Удаление без выбора | ⚠️ "Выберите запись для удаления!" |
+
+---
+
+## Требования для запуска
+
+- Python 3.6 или выше
+- Tkinter (входит в стандартную поставку Python)
+- Дополнительных библиотек не требуется
+
+---
+
+## Как запустить
+
+```bash
+git clone https://github.com/pshenichnayaarr228-lgtm/expense-tracker.git
+cd expense-tracker
+python expense_tracker.py
+
+---
+
